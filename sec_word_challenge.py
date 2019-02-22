@@ -1,6 +1,6 @@
 """
 Created on Tue Apr 02 19:05:14 2018
-
+Application Development Project. College Football Word Challenge Game code.
 @authors: Jim Fuller, Rashid Baishev, Kyle Venable
 
 """
